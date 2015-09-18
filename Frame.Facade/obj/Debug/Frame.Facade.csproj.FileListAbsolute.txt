@@ -1,0 +1,4 @@
+D:\5.Demos\GitHub\Martin.Frame.Service.V1.0\Frame.Facade\bin\Debug\Frame.Facade.dll
+D:\5.Demos\GitHub\Martin.Frame.Service.V1.0\Frame.Facade\bin\Debug\Frame.Facade.pdb
+D:\5.Demos\GitHub\Martin.Frame.Service.V1.0\Frame.Facade\obj\Debug\Frame.Facade.dll
+D:\5.Demos\GitHub\Martin.Frame.Service.V1.0\Frame.Facade\obj\Debug\Frame.Facade.pdb

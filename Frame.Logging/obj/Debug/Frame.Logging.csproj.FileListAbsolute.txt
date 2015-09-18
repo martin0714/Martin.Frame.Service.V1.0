@@ -1,0 +1,4 @@
+D:\5.Demos\GitHub\Martin.Frame.Service.V1.0\Frame.Logging\bin\Debug\Frame.Logging.dll
+D:\5.Demos\GitHub\Martin.Frame.Service.V1.0\Frame.Logging\bin\Debug\Frame.Logging.pdb
+D:\5.Demos\GitHub\Martin.Frame.Service.V1.0\Frame.Logging\obj\Debug\Frame.Logging.dll
+D:\5.Demos\GitHub\Martin.Frame.Service.V1.0\Frame.Logging\obj\Debug\Frame.Logging.pdb

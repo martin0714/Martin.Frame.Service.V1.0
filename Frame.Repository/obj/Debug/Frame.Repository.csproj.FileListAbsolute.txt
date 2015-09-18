@@ -1,0 +1,4 @@
+D:\5.Demos\GitHub\Martin.Frame.Service.V1.0\Frame.Repository\bin\Debug\Frame.Repository.dll
+D:\5.Demos\GitHub\Martin.Frame.Service.V1.0\Frame.Repository\bin\Debug\Frame.Repository.pdb
+D:\5.Demos\GitHub\Martin.Frame.Service.V1.0\Frame.Repository\obj\Debug\Frame.Repository.dll
+D:\5.Demos\GitHub\Martin.Frame.Service.V1.0\Frame.Repository\obj\Debug\Frame.Repository.pdb

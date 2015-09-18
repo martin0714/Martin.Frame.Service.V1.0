@@ -1,0 +1,4 @@
+D:\5.Demos\GitHub\Martin.Frame.Service.V1.0\Frame.Caching\bin\Debug\Frame.Caching.dll
+D:\5.Demos\GitHub\Martin.Frame.Service.V1.0\Frame.Caching\bin\Debug\Frame.Caching.pdb
+D:\5.Demos\GitHub\Martin.Frame.Service.V1.0\Frame.Caching\obj\Debug\Frame.Caching.dll
+D:\5.Demos\GitHub\Martin.Frame.Service.V1.0\Frame.Caching\obj\Debug\Frame.Caching.pdb
