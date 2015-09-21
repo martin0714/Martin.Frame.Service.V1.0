@@ -38,6 +38,21 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Frame.Common">
+      <HintPath>..\Frame.Library\Frame.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Frame.Facade">
+      <HintPath>..\Frame.Library\Frame.Facade.dll</HintPath>
+    </Reference>
+    <Reference Include="Frame.Logging">
+      <HintPath>..\Frame.Library\Frame.Logging.dll</HintPath>
+    </Reference>
+    <Reference Include="Frame.ServiceContainer">
+      <HintPath>..\Frame.Library\Frame.ServiceContainer.dll</HintPath>
+    </Reference>
+    <Reference Include="Frame.ServiceModel">
+      <HintPath>..\Frame.Library\Frame.ServiceModel.dll</HintPath>
+    </Reference>
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Web.DynamicData" />
     <Reference Include="System.Web.Entity" />

@@ -2,3 +2,9 @@ D:\5.Demos\GitHub\Martin.Frame.Service.V1.0\Frame.Common\bin\Debug\Frame.Common.
 D:\5.Demos\GitHub\Martin.Frame.Service.V1.0\Frame.Common\bin\Debug\Frame.Common.pdb
 D:\5.Demos\GitHub\Martin.Frame.Service.V1.0\Frame.Common\obj\Debug\Frame.Common.dll
 D:\5.Demos\GitHub\Martin.Frame.Service.V1.0\Frame.Common\obj\Debug\Frame.Common.pdb
+D:\Programing\Martin.Frame.Service.V1.0\Frame.Common\bin\Debug\Frame.Common.dll
+D:\Programing\Martin.Frame.Service.V1.0\Frame.Common\bin\Debug\Frame.Common.pdb
+D:\Programing\Martin.Frame.Service.V1.0\Frame.Common\obj\Debug\Frame.Common.dll
+D:\Programing\Martin.Frame.Service.V1.0\Frame.Common\obj\Debug\Frame.Common.pdb
+D:\Programing\Martin.Frame.Service.V1.0\Frame.Library\Frame.Common.dll
+D:\Programing\Martin.Frame.Service.V1.0\Frame.Library\Frame.Common.pdb

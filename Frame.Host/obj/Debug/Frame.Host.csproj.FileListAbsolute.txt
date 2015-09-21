@@ -3,3 +3,9 @@ D:\5.Demos\GitHub\Martin.Frame.Service.V1.0\Frame.Host\bin\Frame.Host.dll
 D:\5.Demos\GitHub\Martin.Frame.Service.V1.0\Frame.Host\bin\Frame.Host.pdb
 D:\5.Demos\GitHub\Martin.Frame.Service.V1.0\Frame.Host\obj\Debug\Frame.Host.dll
 D:\5.Demos\GitHub\Martin.Frame.Service.V1.0\Frame.Host\obj\Debug\Frame.Host.pdb
+D:\Programing\Martin.Frame.Service.V1.0\Frame.Host\bin\Frame.Host.dll.config
+D:\Programing\Martin.Frame.Service.V1.0\Frame.Host\bin\Frame.Host.dll
+D:\Programing\Martin.Frame.Service.V1.0\Frame.Host\bin\Frame.Host.pdb
+D:\Programing\Martin.Frame.Service.V1.0\Frame.Host\obj\Debug\Frame.Host.csprojResolveAssemblyReference.cache
+D:\Programing\Martin.Frame.Service.V1.0\Frame.Host\obj\Debug\Frame.Host.dll
+D:\Programing\Martin.Frame.Service.V1.0\Frame.Host\obj\Debug\Frame.Host.pdb

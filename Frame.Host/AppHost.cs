@@ -7,5 +7,7 @@ namespace Frame.Host
 {
     public class AppHost
     {
+
+
     }
 }

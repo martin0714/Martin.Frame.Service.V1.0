@@ -2,3 +2,10 @@ D:\5.Demos\GitHub\Martin.Frame.Service.V1.0\Frame.ServiceImplement\bin\Debug\Fra
 D:\5.Demos\GitHub\Martin.Frame.Service.V1.0\Frame.ServiceImplement\bin\Debug\Frame.ServiceImplement.pdb
 D:\5.Demos\GitHub\Martin.Frame.Service.V1.0\Frame.ServiceImplement\obj\Debug\Frame.ServiceImplement.dll
 D:\5.Demos\GitHub\Martin.Frame.Service.V1.0\Frame.ServiceImplement\obj\Debug\Frame.ServiceImplement.pdb
+D:\Programing\Martin.Frame.Service.V1.0\Frame.ServiceImplement\bin\Debug\Frame.ServiceImplement.dll
+D:\Programing\Martin.Frame.Service.V1.0\Frame.ServiceImplement\bin\Debug\Frame.ServiceImplement.pdb
+D:\Programing\Martin.Frame.Service.V1.0\Frame.ServiceImplement\obj\Debug\Frame.ServiceImplement.csprojResolveAssemblyReference.cache
+D:\Programing\Martin.Frame.Service.V1.0\Frame.ServiceImplement\obj\Debug\Frame.ServiceImplement.dll
+D:\Programing\Martin.Frame.Service.V1.0\Frame.ServiceImplement\obj\Debug\Frame.ServiceImplement.pdb
+D:\Programing\Martin.Frame.Service.V1.0\Frame.Library\Frame.ServiceImplement.dll
+D:\Programing\Martin.Frame.Service.V1.0\Frame.Library\Frame.ServiceImplement.pdb

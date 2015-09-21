@@ -2,3 +2,10 @@ D:\5.Demos\GitHub\Martin.Frame.Service.V1.0\Frame.ServiceModel\bin\Debug\Frame.S
 D:\5.Demos\GitHub\Martin.Frame.Service.V1.0\Frame.ServiceModel\bin\Debug\Frame.ServiceModel.pdb
 D:\5.Demos\GitHub\Martin.Frame.Service.V1.0\Frame.ServiceModel\obj\Debug\Frame.ServiceModel.dll
 D:\5.Demos\GitHub\Martin.Frame.Service.V1.0\Frame.ServiceModel\obj\Debug\Frame.ServiceModel.pdb
+D:\Programing\Martin.Frame.Service.V1.0\Frame.ServiceModel\bin\Debug\Frame.ServiceModel.dll
+D:\Programing\Martin.Frame.Service.V1.0\Frame.ServiceModel\bin\Debug\Frame.ServiceModel.pdb
+D:\Programing\Martin.Frame.Service.V1.0\Frame.ServiceModel\obj\Debug\Frame.ServiceModel.csprojResolveAssemblyReference.cache
+D:\Programing\Martin.Frame.Service.V1.0\Frame.ServiceModel\obj\Debug\Frame.ServiceModel.dll
+D:\Programing\Martin.Frame.Service.V1.0\Frame.ServiceModel\obj\Debug\Frame.ServiceModel.pdb
+D:\Programing\Martin.Frame.Service.V1.0\Frame.Library\Frame.ServiceModel.dll
+D:\Programing\Martin.Frame.Service.V1.0\Frame.Library\Frame.ServiceModel.pdb

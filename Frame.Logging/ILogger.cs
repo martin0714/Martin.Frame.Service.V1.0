@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Frame.ServiceContainer
+namespace Frame.Logging
 {
-    public class Class1
+    public class ILogger
     {
     }
 }
