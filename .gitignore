@@ -42,3 +42,6 @@ Network Trash Folder
 Temporary Items
 .apdisk
 *.dll
+.suo
+applicationhost.config
+CoreCompileInputs.cache
